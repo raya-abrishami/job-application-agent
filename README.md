@@ -112,4 +112,4 @@ The `RESUME_SUMMARY` in this repo is a placeholder. Swap in a real profile to ge
 
 ## Credits
 
-Built collaboratively as a capstone project. See the commit history and project notes for the division of work.
+Built collaboratively as a capstone project. Built for the Google and Kaggle 5-Day AI Agents Intensive with my partner, Dorsa Abrishami. I built the agent pipeline; the project was designed around her data analyst job search, and her resume was the original scoring profile. Code was developed with AI assistance and iterated by hand.
